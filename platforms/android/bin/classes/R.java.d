@@ -1,0 +1,21 @@
+/home/stephen/Downloads/weightTracker/platforms/android/gen/com/phonegap/helloworld/R.java \
+ : /home/stephen/Downloads/weightTracker/platforms/android/res/drawable/icon.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/values/strings.xml \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xhdpi/ic_action_remove.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xhdpi/icon.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xhdpi/ic_action_previous_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xhdpi/ic_action_next_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-hdpi/ic_action_remove.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-hdpi/icon.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-hdpi/ic_action_previous_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-hdpi/ic_action_next_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xxhdpi/ic_action_remove.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xxhdpi/ic_action_previous_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-xxhdpi/ic_action_next_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-mdpi/ic_action_remove.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-mdpi/icon.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-mdpi/ic_action_previous_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-mdpi/ic_action_next_item.png \
+/home/stephen/Downloads/weightTracker/platforms/android/res/xml/config.xml \
+/home/stephen/Downloads/weightTracker/platforms/android/res/drawable-ldpi/icon.png \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/AndroidManifest.xml \

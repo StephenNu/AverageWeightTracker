@@ -1,0 +1,24 @@
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes.dex : \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/R.java.d \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/R$string.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/HelloWorld.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/R$drawable.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/R$xml.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/R.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/R$attr.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/classes/com/phonegap/helloworld/BuildConfig.class \
+/home/stephen/Downloads/weightTracker/platforms/android/bin/dexedLibs/cordova-3.1.0-d3ee53638e71024f37c4144f17ec161c.jar \

@@ -1,0 +1,29 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="com.phonegap.helloworld" EntryPointType="com.phonegap.helloworld.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="com.phonegap.helloworld" Source="com.phonegap.helloworld.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile" Source="Microsoft.Advertising.Mobile.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile.UI" Source="Microsoft.Advertising.Mobile.UI.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.TestPlatform.Core" Source="Microsoft.VisualStudio.TestPlatform.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.TestPlatform.TestExecutor.Core" Source="Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.TestPlatform.UnitTestFramework" Source="Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks" Source="Microsoft.Threading.Tasks.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions" Source="Microsoft.Threading.Tasks.Extensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Threading.Tasks.Extensions.Phone" Source="Microsoft.Threading.Tasks.Extensions.Phone.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Common" Source="Microsoft.WindowsAzure.Common.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Common.WindowsPhone" Source="Microsoft.WindowsAzure.Common.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management.Compute" Source="Microsoft.WindowsAzure.Management.Compute.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management" Source="Microsoft.WindowsAzure.Management.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management.MediaServices" Source="Microsoft.WindowsAzure.Management.MediaServices.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management.Network" Source="Microsoft.WindowsAzure.Management.Network.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management.Scheduler" Source="Microsoft.WindowsAzure.Management.Scheduler.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management.Storage" Source="Microsoft.WindowsAzure.Management.Storage.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Management.WebSites" Source="Microsoft.WindowsAzure.Management.WebSites.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Mobile" Source="Microsoft.WindowsAzure.Mobile.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Mobile.Ext" Source="Microsoft.WindowsAzure.Mobile.Ext.dll" />
+    <AssemblyPart x:Name="Microsoft.WindowsAzure.Mobile.UI" Source="Microsoft.WindowsAzure.Mobile.UI.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="System.Net.Http" Source="System.Net.Http.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Extensions" Source="System.Net.Http.Extensions.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Primitives" Source="System.Net.Http.Primitives.dll" />
+  </Deployment.Parts>
+</Deployment>

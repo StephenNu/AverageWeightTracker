@@ -1,0 +1,14 @@
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\com.phonegap.helloworld.dll
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\com.phonegap.helloworld.pdb
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\com.phonegap.helloworld.g.resources
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\com.phonegap.helloworld.dll
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\com.phonegap.helloworld.pdb
+C:\Users\Stephen\Documents\phonegap\weightTracker\platforms\wp8\obj\Debug\XapCacheFile.xml
